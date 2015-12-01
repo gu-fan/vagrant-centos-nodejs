@@ -1,4 +1,6 @@
-Hello
-=====
+vagrant initial
+===============
 
-This is a initial test.
+this is a initial box
+
+
